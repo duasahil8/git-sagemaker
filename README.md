@@ -1,2 +1,2 @@
 # git-sagemaker
-Test git with SageMaker
+Test git with SageMaker Notebook instance 
